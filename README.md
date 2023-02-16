@@ -47,8 +47,8 @@ This is the back end application for an e-commerce website using Express, MySQL,
     ```
 6. Use Insomnia to test API POST, GET, PUT, DELETE routes.
 - Walkthrough video
-<video src=></video>
-
+<video src="https://user-images.githubusercontent.com/106784125/219299896-9acd37f1-f11c-45aa-a5f3-b8b5d1b607b1.mp4
+"></video>
 
 ## License
 Copyright © 2022 [Claire Cho](https://github.com/clairehwcho).
