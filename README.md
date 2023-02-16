@@ -35,7 +35,6 @@ This is the back end application for an e-commerce website using Express, MySQL,
     ```
     ```shell
     mysql> source db/schema.sql;
-    mysql> use ecommerce_db;
     mysql> quit;
     ```
 4. Seed the test data to your database:
